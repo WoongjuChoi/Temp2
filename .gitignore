@@ -63,4 +63,7 @@ crashlytics-build.properties
 NetworkTest/Library/
 
 # ignore Photon
-NetworkTest/Assets/Photon/
+NetworkTest/Assets/Photon/PhotonChat/
+NetworkTest/Assets/Photon/PhotonLibs/
+NetworkTest/Assets/Photon/PhotonRealtime/
+NetworkTest/Assets/Photon/PhotonUnityNetworking/
