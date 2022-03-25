@@ -55,6 +55,12 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+
 # Crashlytics generated file
 crashlytics-build.properties
 
+#ignore list
+NetworkTest/Library/
+
+# ignore Photon
+NetworkTest/Assets/Photon/
